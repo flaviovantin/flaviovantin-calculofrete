@@ -1,0 +1,10 @@
+fvantin\controller\handler\ObterTabelaFretesHandler.class
+fvantin\model\dto\CustoPorDistancia.class
+fvantin\model\Frete.class
+fvantin\controller\handler\CalcularFreteHandler.class
+fvantin\dao\FreteDAO.class
+fvantin\utils\FloatUtils.class
+fvantin\controller\response\CalcularFreteResponse.class
+fvantin\controller\response\ApiGatewayProxyResponse.class
+fvantin\controller\request\CalcularFreteRequest.class
+fvantin\service\FreteService.class

@@ -3,7 +3,7 @@ package fvantin.utils;
 public final class FloatUtils {
 
     private FloatUtils() {
-        // singleton
+        // Singleton
     }
 
     public static Float tryParseFloat(String toParse) {
